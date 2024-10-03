@@ -63,6 +63,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 - [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Get back to the basics you fool! Learn how to do Clean Code for your career. This is by far the best book I've read even if this list is related to Deep Learning.
 - [Clean Coder](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) - Learn how to be professional as a coder and how to interact with your manager. This is important for any coding career.
+- [Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition) - The bestselling book on Python deep learning, now covering generative AI, Keras 3, PyTorch, and JAX!
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - The audio version is nice to listen to while commuting. This book is motivating about reverse-engineering the mind and thinking on how to code AI.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
